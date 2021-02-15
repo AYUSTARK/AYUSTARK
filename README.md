@@ -30,11 +30,16 @@ A 2nd year B.Tech student of KIIT who like to create great User friendly and pra
 </p>
 </div>
 
-<br />
-<br />
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <div>
 <a href="https://www.codechef.com/users/ayustark/">
