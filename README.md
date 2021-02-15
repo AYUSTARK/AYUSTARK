@@ -19,6 +19,7 @@
 </p>
 
 <div>
+  <p align="left">Android Developer at DSC KIIT</p>
 <img align="right" alt="GIF" height="300px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/git%20crop.gif"/>
 </div>
 
