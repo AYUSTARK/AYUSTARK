@@ -100,23 +100,22 @@
   <img src="https://img.shields.io/badge/-JAVA-E34F26?style=for-the-badge&logo=java"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-KOTLIN-black?style=for-the-badge&logo=kotlin" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="" />&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-ORACLE-E34F26?style=for-the-badge&logo=oracle" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=007afb" />
   <br/>
-
-
+  <img src="https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=Flutter&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-informational?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Editor-PyCharm-black?style=for-the-badge&logo=PyCharm" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Editor-Intellij%20IDEA-E34F26?style=for-the-badge&logo=intellij%20IDEA&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Editor-Android%20Studio-black?style=for-the-badge&logo=Android%20Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
 </p>
