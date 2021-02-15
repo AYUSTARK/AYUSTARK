@@ -113,12 +113,13 @@
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/Editor-PyCharm-007afb?style=for-the-badge&logo=PyCharm" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Editor-Intellij%20IDEA-007afb?style=for-the-badge&logo=intellij%20IDEA&logoColor=white" />
+  <img src="https://img.shields.io/badge/Editor-Intellij%20IDEA-007afb?style=for-the-badge&logo=intellij%20IDEA&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Editor-Web%20Storm-007afb?style=for-the-badge&logo=WebStorm&logoColor=white" />
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Editor-Web%20Storm-007afb?style=for-the-badge&logo=WebStorm&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Jet%20Brains-007afb?style=for-the-badge&logo=JetBrains" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-VSCode-007afb?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Editor-Android%20Studio-E34F26?style=for-the-badge&logo=Android%20Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Editor-Android%20Studio-E34F26?style=for-the-badge&logo=Android%20Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OS-KALI%20LINUX-E34F26?style=for-the-badge&logo=kali-Linux&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <br/>
