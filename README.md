@@ -1,4 +1,4 @@
-### <h1>Hey <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/Hi.gif" height="40px" width="40px">, I'm <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/Name.gif" height="50px" width="220px"></h1>
+### <h1>Hey <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/Hi.gif" height="40px" width="40px">, I'm <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/Name.gif" height="70px" width="220px"></h1>
 
 <!--
 
