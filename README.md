@@ -1,4 +1,4 @@
-### <h1>Hey <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/Hi.gif" height="40px" width="40px">, I'm <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/LOGO.png" height="70px" width="220px"></h1>
+<h1>Hey <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/Hi.gif" height="40px" width="40px">, I'm <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/LOGO.png" height="70px" width="220px"></h1>
 <p align="middle">
 <a href="https://www.linkedin.com/in/ayustark">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
@@ -78,7 +78,7 @@
 <br />
 <p align="center">
 <img align="left" height="260" width="550" src="https://github-readme-stats.vercel.app/api?username=ayustark&theme=onedark" alt="ayustark"/> 
-<img align="right" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayustark&hide=css&theme=nord" alt="ayustark" />
+<img align="left" style="float: right" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayustark&hide=css&theme=nord" alt="ayustark" />
 </p>
 </div>
 
