@@ -114,8 +114,9 @@
   <img src="https://img.shields.io/badge/OS-Ubuntu%2020.04%20LTS-informational?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-PyCharm-black?style=for-the-badge&logo=PyCharm" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Editor-Intellij%20IDEA-E34F26?style=for-the-badge&logo=intellij%20IDEA&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Editor-Android%20Studio-black?style=for-the-badge&logo=Android%20Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Editor-Intellij%20IDEA-blue?style=for-the-badge&logo=intellij%20IDEA&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Editor-Web%20Storm-blue?style=for-the-badge&logo=WebStorm&logoColor=007afb" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Editor-Android%20Studio-E34F26?style=for-the-badge&logo=Android%20Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
   <br/>
 </p>
