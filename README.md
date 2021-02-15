@@ -97,8 +97,10 @@
 <br />
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-JAVA-E34F26?style=for-the-badge&logo=java"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" />&nbsp;&nbsp;&nbsp;&nbsp;
-
+  <img src="https://img.shields.io/badge/-KOTLIN-black?style=for-the-badge&logo=kotlin" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="" />&nbsp;&nbsp;&nbsp;&nbsp;
 
   <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
