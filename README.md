@@ -77,7 +77,7 @@
 <br />
 <br />
 <p align="center">
-<img align="left" height="240" width="520" src="https://github-readme-stats.vercel.app/api?username=ayustark&theme=onedark" alt="ayustark"/> 
+<img align="left" height="270" width="550" src="https://github-readme-stats.vercel.app/api?username=ayustark&theme=onedark" alt="ayustark"/> 
 <img align="left" height="240" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayustark&hide=css&theme=nord" alt="ayustark" />
 </p>
 </div>
