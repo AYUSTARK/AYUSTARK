@@ -115,7 +115,7 @@
   <img src="https://img.shields.io/badge/Editor-PyCharm-007afb?style=for-the-badge&logo=PyCharm" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-Intellij%20IDEA-007afb?style=for-the-badge&logo=intellij%20IDEA&logoColor=white" />
   <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Editor-Web%20Storm-007afb?style=for-the-badge&logo=WebStorm&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Editor-Web%20Storm-007afb?style=for-the-badge&logo=WebStorm&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-VSCode-007afb?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <br>
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Editor-Android%20Studio-E34F26?style=for-the-badge&logo=Android%20Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
