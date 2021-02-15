@@ -43,13 +43,13 @@ A 2nd year B.Tech student of KIIT who like to create great User friendly and pra
 
 <div>
 <a href="https://www.codechef.com/users/ayustark/">
-  <img align="left" alt="Ayustark's CodeChef" height="46px" width="55px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/Codechef_dark%20logo.png" />
+  <img align="left" alt="Ayustark's CodeChef" height="46px" width="65px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/Codechef_dark%20logo.png" />
 </a>
 <a href="https://www.hackerrank.com/ayustark/">
   <img align="left" alt="Ayustark's HackerRank" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/HackerRank.png" />
 </a>
 <a href="https://leetcode.com/ayustark/">
-  <img align="left" alt="Ayustark's Leetcode" height="40px" width="35px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/LeetCode_logo.png" />
+  <img align="left" alt="Ayustark's Leetcode" height="40px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/LeetCode_logo.png" />
 </a>
 <a href="https://codeforces.com/profile/ayustark/">
   <img align="left" alt="Ayustark's CodeForces" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/CodeForces%20Logo.png" />
