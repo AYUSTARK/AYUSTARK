@@ -25,7 +25,7 @@
 <br>5⭐ coder in Problem Solving at HackerRank.
 <br>4⭐ coder in C Programming at HackerRank.
 <br>3⭐ coder at CodeChef
-<img align="right" alt="GIF" height="300px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/git%20crop.gif"/>
+<img alt="GIF" height="300px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/git%20crop.gif"/>
 </p>
 </div>
 
