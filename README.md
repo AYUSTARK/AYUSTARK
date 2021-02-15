@@ -55,7 +55,7 @@
   <img align="left" alt="Ayustark's CodeSignal" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/codesignal_logo.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/ayustark/practice/">
-  <img align="left" alt="Ayustark's GeeksforGeeks" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/main/profile%20images/GeeksforGeeks%20logo.png" />
+  <img align="left" alt="Ayustark's GeeksforGeeks" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/GeeksforGeeks%20logo.png"/>
 </a>
 </div>
 
