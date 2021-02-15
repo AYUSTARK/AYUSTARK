@@ -46,13 +46,13 @@
   <img align="left" alt="Ayustark's HackerRank" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/HackerRank.png" />
 </a>
 <a href="https://www.codechef.com/users/ayustark/">
-  <img align="left" alt="Ayustark's CodeChef" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/main/profile%20images/CodeChef%20Logo.png" />
+  <img align="left" alt="Ayustark's CodeChef" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/CodeChef%20Logo.png" />
 </a>
 <a href="https://codeforces.com/profile/ayustark/">
-  <img align="left" alt="Ayustark's CodeForces" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/main/profile%20images/CodeForces%20Logo.png" />
+  <img align="left" alt="Ayustark's CodeForces" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/CodeForces%20Logo.png" />
 </a>
 <a href="https://app.codesignal.com/profile/ayustark/">
-  <img align="left" alt="Ayustark's CodeSignal" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/main/profile%20images/codesignal_logo.png" />
+  <img align="left" alt="Ayustark's CodeSignal" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/codesignal_logo.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/ayustark/practice/">
   <img align="left" alt="Ayustark's GeeksforGeeks" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/main/profile%20images/GeeksforGeeks%20logo.png" />
