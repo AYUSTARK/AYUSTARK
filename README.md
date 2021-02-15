@@ -20,11 +20,11 @@
 
 <div>
   <p align="left">A 2nd year B.Tech student who like to create great User friendly and practically useful apps.
-I am quiet attracted and interested in learning ML & AI and Ethical Hacking.
-Member of DSC KIIT for Android Dev
-5⭐ coder in Problem Solving at HackerRank.
-4⭐ coder in C Programming at HackerRank.
-3⭐ coder at CodeChef </p>
+<br>I am quiet attracted and interested in learning ML & AI and Ethical Hacking.
+<br>Member of DSC KIIT for Android Dev
+<br>5⭐ coder in Problem Solving at HackerRank.
+<br>4⭐ coder in C Programming at HackerRank.
+<br>3⭐ coder at CodeChef </p>
 <img align="right" alt="GIF" height="300px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/git%20crop.gif"/>
 </div>
 
