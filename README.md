@@ -1,7 +1,6 @@
-### Hi there 👋
+### <h1>Hey <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/Hi.gif" height="40px" width="40px">, I'm <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/Name.gif" height="30px" width="220px"></h1>
 
 <!--
-**AYUSTARK/AYUSTARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
