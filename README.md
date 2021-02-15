@@ -78,7 +78,7 @@
 <br />
 <p align="center">
 <img align="left" height="220" src="https://github-readme-stats.vercel.app/api?username=ayustark&theme=onedark" alt="ayustark"/> 
-<img align="left" height="230" width="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayustark&hide=css&theme=nord" alt="ayustark" />
+<img align="left" height="230" width="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayustark&hide=css&theme=nord" alt="ayustark" />
 </p>
 </div>
 
@@ -116,7 +116,6 @@
   <img src="https://img.shields.io/badge/Editor-Intellij%20IDEA-007afb?style=for-the-badge&logo=intellij%20IDEA&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-Web%20Storm-007afb?style=for-the-badge&logo=WebStorm&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-VSCode-007afb?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jet%20Brains-007afb?style=for-the-badge&logo=JetBrains" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
   <img src="https://img.shields.io/badge/Editor-Android%20Studio-E34F26?style=for-the-badge&logo=Android%20Studio" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/OS-KALI%20LINUX-E34F26?style=for-the-badge&logo=kali-Linux&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
