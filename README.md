@@ -99,11 +99,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-JAVA-E34F26?style=for-the-badge&logo=java"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-KOTLIN-black?style=for-the-badge&logo=kotlin" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Python-E34F26?style=for-the-badge&logo=Python" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-ORACLE-E34F26?style=for-the-badge&logo=oracle" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
+  <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
@@ -113,6 +113,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Editor-PyCharm-007afb?style=for-the-badge&logo=PyCharm" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-Intellij%20IDEA-007afb?style=for-the-badge&logo=intellij%20IDEA&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <br>
   <img src="https://img.shields.io/badge/Editor-Web%20Storm-007afb?style=for-the-badge&logo=WebStorm&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Editor-VSCode-007afb?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
