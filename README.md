@@ -67,7 +67,9 @@
 <br />
 
 <div>
-<iframe src="https://open.spotify.com/embed/playlist/1aU2LEHPLOtissqguH3xyA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<a href="https://open.spotify.com/embed/playlist/1aU2LEHPLOtissqguH3xyA">
+  <img align="left" alt="Spotify Now Playing" src="https://spotify-git-master.sagnikghoshcr7.vercel.app/api/spotify" />
+</a>
 </div>
 
 <br />
