@@ -1,4 +1,4 @@
-### <h1>Hey <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/Hi.gif" height="40px" width="40px">, I'm <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/LOGO.png" height="70px" width="220px"></h1>
+### <h1>Hey <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/Hi.gif" height="40px" width="40px">, I'm <img src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/LOGO.png" height="70px" width="220px"></h1>
 <p align="middle">
 <a href="https://www.linkedin.com/in/ayustark">
 <img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue">
@@ -19,7 +19,7 @@
 </p>
 
 <div>
-<img align="right" alt="GIF" height="300px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/git%20crop.gif"/>
+<img align="right" alt="GIF" height="300px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/git%20crop.gif"/>
 </div>
 
 <br />
@@ -40,22 +40,22 @@
 
 <div>
 <a href="https://leetcode.com/ayustark/">
-  <img align="left" alt="Sagnik's Leetcode" height="40px" width="35px" src="https://github.com/sagnikghoshcr7/images/blob/master/LeetCode_logo.png" />
+  <img align="left" alt="Ayustark's Leetcode" height="40px" width="35px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/LeetCode_logo.png" />
 </a>
 <a href="https://www.hackerrank.com/ayustark/">
-  <img align="left" alt="Sagnik's HackerRank" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/HackerRank.png" />
+  <img align="left" alt="Ayustark's HackerRank" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/HackerRank.png" />
 </a>
 <a href="https://www.codechef.com/users/ayustark/">
-  <img align="left" alt="Sagnik's CodeChef" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeChef%20Logo.png" />
+  <img align="left" alt="Ayustark's CodeChef" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/main/profile%20images/CodeChef%20Logo.png" />
 </a>
 <a href="https://codeforces.com/profile/ayustark/">
-  <img align="left" alt="Sagnik's CodeForces" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/CodeForces%20Logo.png" />
+  <img align="left" alt="Ayustark's CodeForces" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/main/profile%20images/CodeForces%20Logo.png" />
 </a>
 <a href="https://app.codesignal.com/profile/ayustark/">
-  <img align="left" alt="Sagnik's CodeSignal" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/codesignal_logo.png" />
+  <img align="left" alt="Ayustark's CodeSignal" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/main/profile%20images/codesignal_logo.png" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/ayustark/practice/">
-  <img align="left" alt="Sagnik's GeeksforGeeks" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/master/GeeksforGeeks%20logo.png" />
+  <img align="left" alt="Ayustark's GeeksforGeeks" height="46px" width="43px" src="https://github.com/sagnikghoshcr7/images/blob/main/profile%20images/GeeksforGeeks%20logo.png" />
 </a>
 </div>
 
