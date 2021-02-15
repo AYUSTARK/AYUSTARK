@@ -46,7 +46,7 @@
   <img align="left" alt="Ayustark's HackerRank" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/HackerRank.png" />
 </a>
 <a href="https://www.codechef.com/users/ayustark/">
-  <img align="left" alt="Ayustark's CodeChef" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/CodeChef%20Logo.png" />
+  <img align="left" alt="Ayustark's CodeChef" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/Codechef_dark%20logo.png" />
 </a>
 <a href="https://codeforces.com/profile/ayustark/">
   <img align="left" alt="Ayustark's CodeForces" height="46px" width="43px" src="https://github.com/AYUSTARK/AYUSTARK/blob/main/profile%20images/CodeForces%20Logo.png" />
