@@ -19,7 +19,7 @@
 </p>
 
 <div>
-  <p align="left">A 2nd year B.Tech student who like to create great User friendly and practically useful apps.
+  <p align="left" width="500px">A 2nd year B.Tech student who like to create great User friendly and practically useful apps.
 <br>I am quiet attracted and interested in learning ML & AI and Ethical Hacking.
 <br>Member of DSC KIIT for Android Dev
 <br>5⭐ coder in Problem Solving at HackerRank.
