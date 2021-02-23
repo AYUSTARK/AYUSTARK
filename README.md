@@ -15,7 +15,6 @@
 <a href="https://twitter.com/ayustark">
 <img src="https://img.shields.io/badge/-Twitter-%231a91da?style=flat&logo=Twitter&logoColor=white">
 </a>
-<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=ayustark.ayustark" alt="Vistor Badge"></a>
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=ayustark" alt="Vistor Badge"></a>
 </p>
 
